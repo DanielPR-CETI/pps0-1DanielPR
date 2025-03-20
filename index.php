@@ -1,1 +1,1 @@
-<?php echo '<h1>Hola Mundo, soy DanielPR</h1>'; ?>
+<?php echo '<h1>Hola desde GitHub, soy Daniel P.R.</h1>'; ?>
